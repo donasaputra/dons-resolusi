@@ -3,5 +3,5 @@ dons resolusi
 - NodeJs
 - Angular Js
 - MongoodB
-- MEAN
 - MERN
+- Membuat VLOG
